@@ -1,0 +1,11 @@
+.orders {
+    padding: 20px 30px;
+}
+
+.orders__order {
+    padding: 30px;
+}
+.orders__noUser {
+    padding: 50px;
+    text-align: center;
+}
