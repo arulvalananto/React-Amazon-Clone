@@ -2,7 +2,7 @@ import firebase from 'firebase';
 
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyAQd8jUjOij6YmF_dUHZsY9SjST-Baw1Zs",
+  apiKey: "AIzaSyAQd8jUjOij6YmF_dUHZsY9SjST-Baw1Zs134",
   authDomain: "mazon-clone-5dc2b.firebaseapp.com",
   databaseURL: "https://mazon-clone-5dc2b.firebaseio.com",
   projectId: "mazon-clone-5dc2b",
